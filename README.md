@@ -10,7 +10,7 @@ Requires MATLAB release R2023b or newer
 
 Two-year swap rate get from:
 - [Two-year Swap Rate](https://fred.stlouisfed.org/series/DSWP2)
-and files 
+and files [DSWP2.csv](https://github.com/LiangBingbing/Sentiment-Analysis-and-Forecasting-Using-FinBERT-on-FOMC-Documents)
 
 FOMC get from:
 - [FOMC Calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
