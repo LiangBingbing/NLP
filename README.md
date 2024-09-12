@@ -7,4 +7,7 @@ Requires MATLAB release R2023b or newer
 - [Optimization Toolbox™](https://www.mathworks.com/products/optimization.html)
 - [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html)
 - https://www.mathworks.com/help/slcheck/ref/modeltransformer-app.html
+
+Details in Scoring.mlx
+## Regression analysis and model comparison
 View the Project_Final.mlx
