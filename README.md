@@ -6,6 +6,5 @@ Requires MATLAB release R2023b or newer
 - [Financial Toolbox™](https://www.mathworks.com/products/finance.html)
 - [Optimization Toolbox™](https://www.mathworks.com/products/optimization.html)
 - [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html)
-- [https://www.mathworks.com/matlabcentral/fileexchange/107375-transformer-models](https://www.mathworks.com/matlabcentral/fileexchange/107375-transformer-models)
-## Regression analysis and different model comparison
+- https://www.mathworks.com/help/slcheck/ref/modeltransformer-app.html
 View the Project_Final.mlx
