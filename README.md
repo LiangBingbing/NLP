@@ -9,10 +9,10 @@ Requires MATLAB release R2023b or newer
 - [Model Transformer App™](https://www.mathworks.com/help/slcheck/ref/modeltransformer-app.html)
 
 Two-year swap rate get from:
-- https://fred.stlouisfed.org/series/DSWP2
+- [Two-year Swap Rate](https://fred.stlouisfed.org/series/DSWP2)
 
 FOMC get from:
-- https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+- [FOMC Calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
 
 ## FOMC fetching and scoring
 Details in Scoring.mlx
