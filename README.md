@@ -2,3 +2,5 @@
 Sentiment Analysis and Forecasting Using FinBERT on FOMC Documents by Matlab
 ## FOMC fetch and sentiment score get
 Details in Scoring.mlx
+## Regression analysis and different model comparison
+View the Project_Final.mlx
